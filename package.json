@@ -1,5 +1,5 @@
 {
-  "name": "react-videocall",
+  "name": "auramed_vc",
   "version": "1.7.0",
   "description": "React VideoCall App",
   "scripts": {
@@ -54,8 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nguymin4/react-videocall.git"
+    "url": "git+https://github.com/SAPtadeep27/auramed_vc.git"
   },
-  "author": "Minh Son Nguyen",
-  "license": "MIT"
+  "author": "Saptadeep Mitra",
 }
